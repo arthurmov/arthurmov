@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arthur Movsesyan
 ### A passionate developer from New York City
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="530" height='300' src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmov&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmov" /> </p>
 
@@ -36,6 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmov&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arthurmov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
