@@ -1,7 +1,7 @@
 <!-- Animated typing text -->
 <h1>
   <a href="https://github.com/arthurmov">
-    <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arthur+Movsesyan;Software+Engineer;Full+Stack+Developer;ML+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arthur+Movsesyan;Software+Engineer;Full+Stack+Developer;ML+Enthusiast" />
   </a>
 </h1>
 
