@@ -1,4 +1,11 @@
-# 👋 Hi, I'm Arthur Movsesyan
+<!-- Animated typing text -->
+<h1>
+  <a href="https://github.com/arthurmov">
+    <img src="https://readme-typing-svg.demolab.com?font=GeistMono&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arthur+Movsesyan;Software+Engineer;Full+Stack+Developer;ML+Enthusiast" alt="Typing SVG" />  
+  </a>
+</h1>
+
+
 ### A passionate developer from New York City
 <img align="right" alt="Coding" width="500" height='280' src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
