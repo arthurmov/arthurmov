@@ -6,7 +6,7 @@
 </h1>
 
 
-### A passionate developer from New York City
+### **` A passionate developer from New York City `**
 <img align="right" alt="Coding" width="500" height='280' src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmov&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmov" /> </p>
