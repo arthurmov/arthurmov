@@ -13,7 +13,7 @@
 
 ### 💫 About Me:
 🎓 Senior Computer Science student at Brooklyn College<br>
-💻 Software Developer Trainee at Year Up United<br>
+💻 Currently doing App Development at Year Up United<br>
 🧠 Passionate about AI/ML and building smart solutions<br>
 
 
