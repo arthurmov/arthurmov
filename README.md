@@ -12,8 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmov&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmov" /> </p>
 
 ### 👨‍💻 About Me:
-🎓 Senior Computer Science student at Brooklyn College<br>
-💻 Currently doing App Development at Year Up United<br>
+🎓 New Grad with a BS in Computer Science from Brooklyn College<br>
+💻 App Development Trainee at Year Up United<br>
 🧠 Passionate about AI/ML and building smart solutions<br>
 
 
