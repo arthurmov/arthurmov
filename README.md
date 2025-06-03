@@ -13,8 +13,8 @@
 
 ### 👨‍💻 About Me:
 🎓 New Grad with a BS in Computer Science from Brooklyn College<br>
-💻 App Development Trainee at Year Up United<br>
-🧠 Passionate about AI/ML and building smart solutions<br>
+💻 Currently an App Development Trainee at Year Up United<br>
+🧠 Passionate about AI/ML implementation and building smart solutions<br>
 
 
 ### 🌐 Socials:
